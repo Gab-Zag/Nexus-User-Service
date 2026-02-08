@@ -23,7 +23,6 @@ Criar uma Api Rest
 - DTOs
 - Validação
 - Exception Handler
-- Swagger
 - PostgreSQL
 - JPA
 
@@ -33,3 +32,10 @@ Criar uma Api Rest
                    DTOs
                     ↓
                 Validation & Exceptions
+
+## Semana 2: Auth Server(JWT)
+Objetivo:
+- Refresh Token (longo)
+- Regras de expiração
+- Revogação
+- Rotação

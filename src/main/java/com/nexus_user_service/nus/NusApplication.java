@@ -9,5 +9,4 @@ public class NusApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(NusApplication.class, args);
 	}
-
 }
